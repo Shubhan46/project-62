@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 35%;
+    height: 40%
+}
+.container {
+    background-color: red;
+}
